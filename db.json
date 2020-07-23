@@ -1,7 +1,7 @@
 {
-  "users": [{ name: 'Peter', description: 'My Sample Description 1', jobtitle: 'Lead' },
-            { name: 'Ray', description: 'This is description field for Ray', jobtitle: 'Consultant' },
-            { name: 'Egon', description: 'CCC', jobtitle: 'Manager' }
+  "users": [{ "name": "Peter", "description": "My Sample Description 1", "jobtitle": "Lead" },
+            { "name": "Ray", "description": "This is description field for Ray", "jobtitle": "Consultant" },
+            { "name": "Egon", "description": "CCC", "jobtitle": "Manager" }
             ],
   "profile": {
     "name": "typicode"
